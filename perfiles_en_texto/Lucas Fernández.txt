@@ -1,0 +1,16 @@
+Nombre: Lucas Fernández
+Edad: 24 años
+DNI: 456123789
+Fecha de nacimiento y hora: 10 de agosto de 1999, 2:00 p.m.
+Rutina diaria: Trabajo por la mañana en una empresa de tecnología y por las tardes hago cursos en línea de programación.
+¿Estudias y/o trabajas?: Trabajo a tiempo completo como desarrollador de software.
+Disponibilidad: Fines de semana y noches entre semana.
+Horario: Es bastante fijo por el trabajo.
+Lugares vividos: He vivido en Mendoza y ahora resido en Córdoba.
+Lugar favorito: Me gustó mucho Salta por su historia y cultura.
+¿Cómo te ves en 5 años?: Trabajando en el desarrollo de videojuegos o liderando mi propia startup tecnológica.
+Principales intereses: Tecnologías, videojuegos y literatura de ciencia ficción.
+¿Practicas deportes?: Juego al fútbol dos veces por semana con amigos.
+Otros hobbies: Me gustan los videojuegos y la lectura.
+Motivación para el programa: Conocer nuevas perspectivas y compartir experiencias.
+Expectativa de la experiencia: Crear conexiones significativas y aprender habilidades nuevas.

@@ -1,0 +1,16 @@
+Nombre: Sofía Martínez
+Edad: 20 años
+DNI: 789456123
+Fecha de nacimiento y hora: 15 de mayo de 2003, 10:30 a.m.
+Rutina diaria: Durante la mañana asisto a la universidad y en la tarde estudio o trabajo en proyectos universitarios. En la noche hago algo de ejercicio o veo series.
+¿Estudias y/o trabajas?: Estudio diseño gráfico.
+Disponibilidad: Por las tardes después de las 4 p.m.
+Horario: Más o menos establecido debido a las clases.
+Lugares vividos: Siempre he vivido en Buenos Aires.
+Lugar favorito: Me encantó Bariloche por sus paisajes y tranquilidad.
+¿Cómo te ves en 5 años?: Trabajando en una agencia creativa o emprendiendo como diseñadora freelance.
+Principales intereses: Arte, diseño y fotografía.
+¿Practicas deportes?: Realizo pilates.
+Otros hobbies: Me gusta pintar y la jardinería.
+Motivación para el programa: La posibilidad de aprender de otros y aportar con mis ideas creativas.
+Expectativa de la experiencia: Ampliar mis conocimientos y mejorar mis habilidades interpersonales.
