@@ -1,0 +1,7 @@
+{
+    "nombre": "Juan",
+    "Categoria":"joven",
+    "edad": 25,
+    "gustos": ["videojuegos", "fútbol"],
+    "personalidad": "extrovertido"
+  }

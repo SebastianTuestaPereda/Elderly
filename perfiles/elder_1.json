@@ -1,0 +1,7 @@
+{
+    "nombre": "María",
+    "Categoria":"elder",
+    "edad": 70,
+    "gustos": ["jardinería", "lectura"],
+    "personalidad": "tranquila"
+  }
